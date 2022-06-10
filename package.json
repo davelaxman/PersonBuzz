@@ -1,0 +1,19 @@
+{
+  "name": "personbuzz",
+  "version": "1.0.0",
+  "description": "In this test you will be writing some unit tests in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha tests.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+
+  },
+  "author": "Dave Laxman",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
