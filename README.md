@@ -11,8 +11,8 @@ Please create as many tests as you feel are approriate to the personBuzz method.
 4. Once the 'npm install' has completed, run 'npm test' to execute the tests. You should see one test passing. 
 
 ## Completing the assignment
-1. Read and understand the code in the PersonBuzz.js file
-2. Using your favorite IDE, please add your tests to the "Tests.js" file
+1. Read and understand the code in the personBuzz.js file
+2. Using your favorite IDE, please add your tests to the "tests.js" file
 3. Comment your tests as appropriate 
 4. Submit your test following the instructions in the email.
 
