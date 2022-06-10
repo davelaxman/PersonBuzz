@@ -14,6 +14,7 @@ Please create as many tests as you feel are approriate to the personBuzz method.
 1. Read and understand the code in the PersonBuzz.js file
 2. Using your favorite IDE, please add your tests to the "Tests.js" file
 3. Comment your tests as appropriate 
+4. Submit your test following the instructions in the email.
 
 
 Good Luck!
