@@ -4,16 +4,17 @@
   "description": "In this test you will be writing some unit tests in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/mocha/bin/_mocha tests.js",
+    "test": "node node_modules/mocha/bin/mocha --file tests.js",
     "start": "node index.js"
   },
   "repository": {
     "type": "git"
-
   },
   "author": "Dave Laxman",
   "dependencies": {
-    "chai": "^4.3.6",
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
     "mocha": "^10.0.0"
   }
 }
