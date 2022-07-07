@@ -4,7 +4,7 @@
   "description": "In this test you will be writing some unit tests in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha tests.js",
+    "test": "node_modules/mocha/bin/_mocha tests.js",
     "start": "node index.js"
   },
   "repository": {
